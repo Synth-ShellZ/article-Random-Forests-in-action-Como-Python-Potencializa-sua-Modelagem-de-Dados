@@ -32,7 +32,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/random-forests-in-action-como-python-potencializa-sua-modelagem-de-dados?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -48,14 +48,21 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+| conteúdo | Crie um título de um artigo sobre random forests usando python {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto o título deverá ser chamativo e apelativo O título deve ser em português mas "Random forests" não deve ser traduzido dê 5 opções de títulos |
+| conteúdo | Utilizando o Título 5, defina os blocos do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Os blocos deverão estar organizados em ordem de aprendizado O conteúdo do artigo irá abordar desde o início até o nível avançado sobre o assunto |
+| conteúdo | Desenvolva o bloco 1 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
+| conteúdo | Desenvolva o bloco 2 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
+| conteúdo | Desenvolva o bloco 3 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
+| conteúdo | Desenvolva o bloco 4 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
+| conteúdo | Desenvolva o bloco 5 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
+| conteúdo | Desenvolva o bloco 6 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
+| conteúdo | Desenvolva o bloco 7 do artigo {REGRAS} o artigo será sobre random forests usando a linguagem python e irá conter explicações detalhadas e técnicas com exemplos reais de código sobre o assunto Deverá ser um conteúdo extenso |
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• orange synthwave woman
 
 
 
@@ -75,20 +82,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCarlos Rosa<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Synth-ShellZ">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/carlos-eduardo-rosa-6b6a5b280">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/eeduardorosa/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -96,5 +96,4 @@ felipe-exe">LinkedIn</a>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Carlos Rosa](https://github.com/Synth-ShellZ)
